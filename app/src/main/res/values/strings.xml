@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Exp2</string>
+    <string name="create_database">创建数据库</string>
+    <string name="new_diary">写日记</string>
+    <string name="delete_database">删除数据库</string>
+    <string name="back">返回</string>
+    <string name="refresh">刷新</string>
+    <string name="title">标题</string>
+    <string name="body">body</string>
+    <string name="content">content</string>
+    <string name="author">author</string>
+    <string name="create_time">create_time</string>
+    <string name="title_activity_author_info">AuthorInfoActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="man">男</string>
+    <string name="female">女</string>
+    <string name="author_name">姓名</string>
+    <string name="default_author_name">佚名</string>
+    <string name="sexual">性别</string>
+    <string name="intro">个性签名</string>
+    <string name="take_photo">拍照</string>
+    <string name="choose_photo">从相册选取照片</string>
+    <string name="default_title">默认日记标题</string>
+    <string name="untitled_diary">无标题日记</string>
+</resources>
